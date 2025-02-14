@@ -6,6 +6,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 
 ## Tool used :
 Microsoft Excel
+<img src="./excel img.png" width="300" height="600"/>&nbsp;
 
 ## Result and Insights :
 - I have noticed that the Revenue is continuously growing.
